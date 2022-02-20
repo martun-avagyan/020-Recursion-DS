@@ -1,8 +1,6 @@
 "use strict";
 
-let i = -1;
-
-const oddOrNot = function (num) {
+const oddOrNot = function (num, i = -1) {
   i++;
   let numToStr = num.toString();
   if (i === numToStr.length) {
@@ -10,7 +8,7 @@ const oddOrNot = function (num) {
   } else if (numToStr[i] % 2 === 0) {
     return false;
   } else {
-    return oddOrNot(num);
+    return oddOrNot(num, i);
   }
 };
 
