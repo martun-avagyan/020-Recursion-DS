@@ -4,7 +4,7 @@
 
 - ### [02. Given an array of numbers. Write a recursive function to find its minimal positive element. (if such element does not exist, return -1).](https://github.com/martun-avagyan/020-Recursion-DS/blob/main/02minPosInt.js)
 
-- ### [03. Given an array of numbers which is almost sorted in ascending order. Find the index where sorting order is violated.]()
+- ### [03. Given an array of numbers which is almost sorted in ascending order. Find the index where sorting order is violated.](https://github.com/martun-avagyan/020-Recursion-DS/blob/main/03findSortErr.js)
 
 - ### [04. Given an array. Write a recursive function that removes the first element and returns the given array. (without using arr.shift())]()
 
