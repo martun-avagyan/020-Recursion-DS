@@ -1,3 +1,5 @@
+"use strict";
+
 const rotateArr = function (arr, n) {
   if (n === 0) {
     return arr;
