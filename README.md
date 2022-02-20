@@ -6,9 +6,9 @@
 
 - ### [03. Given an array of numbers which is almost sorted in ascending order. Find the index where sorting order is violated.](https://github.com/martun-avagyan/020-Recursion-DS/blob/main/03findSortErr.js)
 
-- ### [04. Given an array. Write a recursive function that removes the first element and returns the given array. (without using arr.shift())]()
+- ### [04. Given an array. Write a recursive function that removes the first element and returns the given array. (without using arr.shift())](https://github.com/martun-avagyan/020-Recursion-DS/blob/main/04rmvFirstEl.js)
 
-- ### [05. Given an array of nested arrays. Write a recursive function that flattens it. (Hint create function that concats arrays).]()
+- ### [05. Given an array of nested arrays. Write a recursive function that flattens it. (Hint create function that concats arrays).](https://github.com/martun-avagyan/020-Recursion-DS/blob/main/05flattenArr.js)
 
 - ### [06. Given an array and a number N. Write a recursive function that rotates an array N places to the left. (Hint: to add element to the beginning use arr.unshift())]()
 
