@@ -10,6 +10,6 @@
 
 - ### [05. Given an array of nested arrays. Write a recursive function that flattens it. (Hint create function that concats arrays).](https://github.com/martun-avagyan/020-Recursion-DS/blob/main/05flattenArr.js)
 
-- ### [06. Given an array and a number N. Write a recursive function that rotates an array N places to the left. (Hint: to add element to the beginning use arr.unshift())]()
+- ### [06. Given an array and a number N. Write a recursive function that rotates an array N places to the left. (Hint: to add element to the beginning use arr.unshift())](https://github.com/martun-avagyan/020-Recursion-DS/blob/main/06rotateArr.js)
 
-- ### [07. Given a number. Write a function that calculates its sum of the digits and if that sum has more than 1 digit find the sum of digits of that number. Repeat that process if needed and return the result.]()
+- ### [07. Given a number. Write a function that calculates its sum of the digits and if that sum has more than 1 digit find the sum of digits of that number. Repeat that process if needed and return the result.](https://github.com/martun-avagyan/020-Recursion-DS/blob/main/07sumOfDigits.js)
